@@ -1,0 +1,456 @@
+
+
+How WRB
+many JJ
+logs NNS
+from IN
+Cisco NNP
+ASA NNP
+today NN
+? .
+
+
+is VBZ
+there EX
+raju RB
+logged VBN
+in IN
+from IN
+last JJ
+one CD
+month NN
+? .
+
+
+How WRB
+many JJ
+logins NNS
+today NN
+from IN
+cisco NN
+firewall NN
+? .
+
+
+Is VBZ
+there EX
+any DT
+login NN
+failures NNS
+today NN
+from IN
+fortigate NN
+firewall NN
+? .
+
+
+is VBZ
+raju JJ
+logged VBN
+in IN
+yesterday NN
+on IN
+windows NNS
+server RB
+? .
+
+
+login NN
+details NNS
+for IN
+user NN
+system NN
+admin NN
+? .
+
+
+who WP
+logged VBD
+in IN
+from IN
+last JJ
+15 CD
+days NNS
+in IN
+all DT
+devices NNS
+? .
+
+
+login NN
+details NNS
+for IN
+cisco NN
+firewall NN
+, ,
+cisco NN
+router NN
+, ,
+cisco NN
+switch NN
+, ,
+cisco NN
+asa NN
+, ,
+fortigate VB
+firewall NN
+? .
+
+
+login JJ
+report NN
+for IN
+last JJ
+1 CD
+month NN
+of IN
+all DT
+devices NNS
+
+
+login NN
+detail NN
+of IN
+cyberroam NN
+firewall NN
+
+
+is VBZ
+user JJ
+admin RB
+logged VBN
+in IN
+any DT
+devices NNS
+? .
+
+
+when WRB
+last JJ
+login NN
+of IN
+windows NNS
+device NN
+? .
+
+
+what WP
+is VBZ
+the DT
+device NN
+name NN
+which WDT
+admin VBZ
+logged VBN
+on IN
+yesterday NN
+? .
+
+
+show VB
+me PRP
+the DT
+logs NNS
+where WRB
+event NN
+log NN
+type NN
+is VBZ
+information NN
+? .
+
+
+show VB
+me PRP
+the DT
+logs NNS
+where WRB
+action NN
+is VBZ
+logged VBN
+out RP
+? .
+
+
+show VB
+me PRP
+log VB
+in IN
+details NNS
+for IN
+all DT
+users NNS
+? .
+
+
+display NN
+where WRB
+application NN
+name NN
+is VBZ
+vlc JJ
+media NNS
+player NN
+? .
+
+
+how WRB
+many JJ
+logs NNS
+where WRB
+dest JJS
+domain NN
+name NN
+is VBZ
+eventtracker.com JJ
+and CC
+destination NN
+hostname NN
+is VBZ
+ntlblrt30 VBN
+? .
+
+
+destination NN
+ip NN
+address NN
+is VBZ
+192.168.1.55 CD
+
+
+show VB
+me PRP
+the DT
+logs NNS
+for IN
+destination NN
+mac NN
+address NN
+is VBZ
+93:44:56:42:56:85 CD
+
+
+connection NN
+details NNS
+for IN
+destination NN
+port NN
+number NN
+is VBZ
+8080 CD
+? .
+
+
+how WRB
+many JJ
+logs NNS
+which WDT
+contains VBZ
+destination NN
+user NN
+name NN
+as IN
+netadministartor NN
+? .
+
+
+show VB
+me PRP
+logs VB
+where WRB
+action NN
+is VBZ
+logged VBN
+in IN
+? .
+
+
+show VB
+me PRP
+high JJ
+priority NN
+logs NNS
+? .
+
+
+show VB
+me PRP
+the DT
+logs NNS
+where WRB
+log NN
+status NN
+is VBZ
+success NN
+? .
+
+
+success NN
+http NN
+code NN
+details NNS
+? .
+
+
+how WRB
+many JJ
+logs NNS
+with IN
+potocol NN
+is VBZ
+https JJ
+and CC
+dns NN
+? .
+
+
+how WRB
+me PRP
+logon JJR
+details NNS
+for IN
+device NN
+name NN
+is VBZ
+ntbtblr50 JJ
+
+
+log NN
+on IN
+details NNS
+out IN
+of IN
+the DT
+country NN
+
+
+show VB
+me PRP
+the DT
+logs NNS
+for IN
+source NN
+user NN
+name NN
+is VBZ
+system NN
+administrator NN
+? .
+
+
+who WP
+logged VBD
+in IN
+windows NNS
+yesterday NN
+morning NN
+? .
+
+
+show VB
+the DT
+logon NN
+failure NN
+details NNS
+for IN
+windows NNS
+? .
+
+
+show VB
+the DT
+logon NN
+failure NN
+for IN
+the DT
+user NN
+john NN
+from IN
+cisco NN
+firewall NN
+? .
+
+
+show VB
+me PRP
+the DT
+logon NN
+failure NN
+for IN
+user JJ
+Administrator NNP
+from IN
+windows NNS
+server RB
+? .
+
+
+logon NN
+details NNS
+for IN
+cisco NN
+
+
+logon JJ
+failure NN
+details NNS
+for IN
+user NN
+Administrator NN
+
+
+logon JJ
+failure NN
+from IN
+cyberoam NN
+firewall NN
+
+
+logon NN
+details NNS
+from IN
+windows NNS
+
+
+show VB
+me PRP
+logon JJR
+details NNS
+for IN
+user NN
+admin NN
+and CC
+netadmin NN
+
+
+show VB
+me PRP
+logon JJ
+failure NN
+details NNS
+for IN
+user JJ
+administrator NN
+and CC
+testeradmin NN
+
+
+logon NN
+details NNS
+for IN
+administrator NN
+for IN
+cisco NN
+
+
+logon NN
+details NNS
+from IN
+cisco NN
+firewall NN
+and CC
+user JJ
+login NN
+details NNS
+from IN
+windows NNS
